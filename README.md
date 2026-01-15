@@ -1,6 +1,7 @@
 # srsRAN-Project-E2E
 
 **End-to-End 5G Setup using Open5GS + srsRAN gNB + srsUE (ZMQ-based Virtual RF)**
+<img width="1024" height="1024" alt="open5gs-srsran" src="https://github.com/user-attachments/assets/aed31c1e-bf17-4519-b9ec-930e62354989" />
 
 This repository documents a complete **end-to-end 5G standalone (SA) setup** using:
 
